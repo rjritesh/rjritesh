@@ -28,6 +28,8 @@ I'm a passionate tech enthusiast and aspiring developer, eager to learn and buil
 
 ### 📫 Let’s Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jhariteshkumar)
+- 📧 Email: [imrjha07@gmail.com](mailto:imrjha07@gmail.com)
+
 
 ---
 
