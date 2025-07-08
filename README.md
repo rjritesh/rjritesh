@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a802875-682f-4378-9961-edad21b71dd0" alt="Software Developer Illustration" width="500" />
+</p>
+
+
 ## 👋 Hi, I'm Ritesh Kumar Jha
 
 I'm a passionate tech enthusiast and aspiring developer, eager to learn and build real-world projects. I thrive on exploring new technologies and improving my coding skills every day.
