@@ -3,8 +3,7 @@
 ###
 
 <p align="left">
-My name is Ritesh Kumar Jha and I'm a Frontend Developer from Kolkata, India.<br>
-💻 Computer Science graduate from Kolkata, India — enthusiastic about learning, coding, and turning ideas into real-world applications.
+I am Ritesh Kumar Jha and I'm a Frontend Developer from Kolkata, India.<br>enthusiastic about learning, coding, and turning ideas into real-world applications.
 </p>
 
 ###
