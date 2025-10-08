@@ -1,9 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Namaste 🙏</h1>
 
 ###
 
 <p align="left">
-I am Ritesh Kumar Jha and I'm a Frontend Developer from Kolkata, India.<br>enthusiastic about learning, coding, and turning ideas into real-world applications.
+I'm Ritesh Kumar Jha, frontend developer based in Kolkata, India.<br>
+Enthusiastic about learning, coding, and turning ideas into real-world applications.
 </p>
 
 ###
@@ -11,11 +12,12 @@ I am Ritesh Kumar Jha and I'm a Frontend Developer from Kolkata, India.<br>enthu
 <h2 align="left">About Me</h2>
 
 <p align="left">
-✨ Creating bugs since birth, fixing them one line at a time.<br>
-📚 Currently diving deep into React, JavaScript, and software development.<br>
-🎯 Goals: Build impactful projects, master full-stack development, and grow as a problem solver.<br>
-🚀 Quick thrill: I love turning ideas into small projects just to see them come alive!
+🧠 Learning React and JavaScript in depth and trying to write cleaner, better code every day.<br>
+🎯 My focus right now is to get strong in front-end and slowly move toward full-stack development.<br>
+⚙️ I like building simple, usable interfaces and figuring out how things work behind the scenes.<br>
+🌱 Still learning, still improving - one project at a time.
 </p>
+
 
 ###
 
@@ -60,3 +62,6 @@ I am Ritesh Kumar Jha and I'm a Frontend Developer from Kolkata, India.<br>enthu
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="github logo" />
   </a>
 </p>
+
+###
+<p align="left"><i>"Code what you imagine. Learn what you don’t know. Build what matters."</i></p>
